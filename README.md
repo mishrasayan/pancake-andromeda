@@ -1,6 +1,4 @@
 
----
-
 # 🥞 Pancake Swap on Andromeda
 
 ## Description
@@ -33,6 +31,4 @@ Our vision is to provide a decentralized, embeddable exchange layer that empower
 ## Deployment Link
 
 > 🔗 **[Access Pancake Swap Exchange on Andromeda](https://embeddables.testnet.andromedaprotocol.io/Andromeda/pancake)**
-
----
 
