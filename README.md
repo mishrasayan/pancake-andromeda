@@ -1,4 +1,3 @@
-Here's a sample **README.md** file based on your provided JSON:
 
 ---
 
